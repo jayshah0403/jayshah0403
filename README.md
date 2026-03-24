@@ -2,13 +2,13 @@
 
 **Computing & Financial Management @ University of Waterloo** · Dean's List · President's Scholarship of Distinction
 
-I build at the intersection of **finance and software** — from AI-powered investment tools to algorithmic trading systems. Currently co-founding [Sayge](https://github.com/jayshah0403), an AI portfolio intelligence platform.
+I build at the intersection of **finance and software** — from AI-powered investment tools to algorithmic trading systems. Currently co-founding [Sayge](https://portfolio-intelligence-gray.vercel.app/), an AI portfolio intelligence platform.
 
 ---
 
 ### 🔨 What I'm Building
 
-**[Sayge](https://github.com/jayshah0403)** — AI-powered portfolio intelligence for retail investors  
+**[Sayge](https://portfolio-intelligence-gray.vercel.app/)** — AI-powered portfolio intelligence for retail investors  
 `Next.js` `TypeScript` `Supabase` `Gemini API`  
 An adaptive platform where AI chat is the primary entry point — ask questions about your portfolio and get dynamically rendered insights, research, and recommendations.
 
