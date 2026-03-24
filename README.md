@@ -12,7 +12,7 @@ I build at the intersection of **finance and software** — from AI-powered inve
 `Next.js` `TypeScript` `Supabase` `Gemini API`  
 An adaptive platform where AI chat is the primary entry point — ask questions about your portfolio and get dynamically rendered insights, research, and recommendations.
 
-**[Chess Engine](https://github.com/jayshah0403)** — Python engine with minimax + alpha-beta pruning  
+**[Chess Engine](https://github.com/jayshah0403/chess-engine)** — Python engine with minimax + alpha-beta pruning  
 `Python` `Streamlit`  
 Features quiescence search, piece-square evaluation tables, and an opening book sourced from the Lichess Elite Database. Deployed as an interactive web app.
 
@@ -20,7 +20,7 @@ Features quiescence search, piece-square evaluation tables, and an opening book 
 `Python` `SciPy` `NumPy` `Pandas`  
 Defensive stock portfolio optimizer achieving a 0.5 Sharpe ratio. Implements efficient frontier calculation and risk-return analysis.
 
-**[AI Recipe Generator](https://github.com/jayshah0403)** — Natural language → personalized recipes  
+**[AI Recipe Generator](https://github.com/jayshah0403/AI-Recipe-Generator)** — Natural language → personalized recipes  
 `React` `Claude API`  
 Generates customized recipes from natural language input using Anthropic's Claude API.
 
@@ -39,7 +39,7 @@ Generates customized recipes from natural language input using Anthropic's Claud
 ### 📍 About Me
 
 - 🎓 1B CFM student at UWaterloo (CS + Math + Finance)
-- ♟️ Competitive chess player — Kings Chess Academy tournaments
+- ♟️ Competitive chess player — **[Jay Bhavik Shah](https://ratings.fide.com/profile/25729934)**
 - 🌍 Grew up in Dubai, now based in Waterloo, ON
 - 🔍 Seeking **Spring 2026 co-op** in fintech, SWE, or AI tooling
 
